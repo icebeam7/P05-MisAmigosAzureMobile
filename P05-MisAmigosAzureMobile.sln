@@ -18,6 +18,11 @@ EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
 		P05-MisAmigosAzureMobile\P05_MisAmigosAzureMobile\P05_MisAmigosAzureMobile.projitems*{02b989a4-7094-47c4-a391-2f196cd0730c}*SharedItemsImports = 13
+		P05-MisAmigosAzureMobile\P05_MisAmigosAzureMobile\P05_MisAmigosAzureMobile.projitems*{2871ca6f-673c-4df6-85d2-5ecb0ac94c08}*SharedItemsImports = 4
+		P05-MisAmigosAzureMobile\P05_MisAmigosAzureMobile\P05_MisAmigosAzureMobile.projitems*{635f29c0-6300-42e3-9748-09d74809cea0}*SharedItemsImports = 4
+		P05-MisAmigosAzureMobile\P05_MisAmigosAzureMobile\P05_MisAmigosAzureMobile.projitems*{cc9dddab-0b8e-4559-96a6-e897c1304bab}*SharedItemsImports = 4
+		P05-MisAmigosAzureMobile\P05_MisAmigosAzureMobile\P05_MisAmigosAzureMobile.projitems*{dbbd2af1-0834-4e71-851d-22d9bdcd102e}*SharedItemsImports = 4
+		P05-MisAmigosAzureMobile\P05_MisAmigosAzureMobile\P05_MisAmigosAzureMobile.projitems*{e6426f76-16d0-41b8-ab2d-8b9c6ac04a48}*SharedItemsImports = 4
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Ad-Hoc|Any CPU = Ad-Hoc|Any CPU

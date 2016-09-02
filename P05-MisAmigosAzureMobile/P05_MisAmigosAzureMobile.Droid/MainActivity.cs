@@ -17,7 +17,8 @@ namespace P05_MisAmigosAzureMobile.Droid
 			base.OnCreate (bundle);
 
 			global::Xamarin.Forms.Forms.Init (this, bundle);
-			LoadApplication (new P05_MisAmigosAzureMobile.App ());
+            Microsoft.WindowsAzure.MobileServices.CurrentPlatform.Init();
+            LoadApplication(new P05_MisAmigosAzureMobile.App ());
 		}
 	}
 }
